@@ -4,7 +4,7 @@ BI 웹 개발 및 분석 포트폴리오
 
 ## 🛠️ 자동 인서트 스크립트
 
-[📁](automation_etc/cn_datainsert_automation.py)
+[📁 automation_etc/cn_datainsert_automation.py](automation_etc/cn_datainsert_automation.py)
 
 - 반복적인 데이터 입력 작업을 자동화하기 위한 Python 스크립트입니다.
 - `pyodbc`를 통해 SQL Server에 연결하여 여러 건의 데이터를 효율적으로 인서트합니다.
